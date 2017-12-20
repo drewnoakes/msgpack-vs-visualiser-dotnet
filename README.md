@@ -16,13 +16,13 @@ This window is modal and debugging may only continue once the window is closed.
 
 ## Installation
 
-(Notes apply to Visual Studio 2015, but are similar for earlier versions)
+(Notes apply to Visual Studio 2017, but are similar for earlier versions)
 
 1. [Download the latest release](https://github.com/drewnoakes/msgpack-vs-visualizer/releases/latest), or build from source
 
-2. Copy `MsgPackVisualizer.dll` and `Dasher.dll` to either
+2. Copy both `MsgPackVisualizer.dll` and `Dasher.dll` to either
 
-    > %USERPROFILE%\Documents\Visual Studio 2015\Visualizers
+    > %USERPROFILE%\Documents\Visual Studio 2017\Visualizers
     
     or
     
