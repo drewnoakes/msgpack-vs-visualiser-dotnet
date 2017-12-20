@@ -39,3 +39,16 @@ You can target earlier versions of Visual Studio by updating the assembly refere
 
 THE CODE IS PROVIDED "AS IS", WITH NO WARRANTIES INTENDED OR IMPLIED. USE AT YOUR OWN RISK!
 
+## Links
+
+This project uses Dasher for fast MsgPack packing and unpacking:
+
+- https://github.com/point-platform/dasher
+
+Check out Plast's similar VS Debugger Visualiser for native debugging:
+
+- https://github.com/Flast/msgpack-vs-visualizer
+
+Read more about creating Visual Studio visualisers:
+
+- https://docs.microsoft.com/en-us/visualstudio/debugger/create-custom-visualizers-of-data
