@@ -18,7 +18,7 @@ This window is modal and debugging may only continue once the window is closed.
 
 (Notes apply to Visual Studio 2017, but are similar for earlier versions)
 
-1. [Download the latest release](https://github.com/drewnoakes/msgpack-vs-visualizer/releases/latest), or build from source
+1. [Download the latest release](https://github.com/drewnoakes/msgpack-vs-visualiser-dotnet/releases/latest), or build from source
 
 2. Copy both `MsgPackVisualizer.dll` and `Dasher.dll` to either
 
